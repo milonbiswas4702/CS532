@@ -1,1 +1,441 @@
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ gcc -o Lab_assignment01 Lab_assignment01.c 
 
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 1 
+
+Enter a positive integer number n: 3 
+
+CS 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 1 
+
+Enter a positive integer number n: 64 
+
+125 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 1 
+
+Enter a positive integer number n: 17 
+
+Go Blazers 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 1 
+
+Enter a positive integer number n: 10 
+
+1 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 1 
+
+Enter a positive integer number n: 30 
+
+UAB CS 332&532 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 2 
+
+Enter an Integer n2: 28 
+
+True 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 2 
+
+Enter an Integer n2: 12 
+
+False 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 2 
+
+Enter an Integer n2: 6 
+
+True 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 2 
+
+Enter an Integer n2: 27 
+
+False 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 3 
+
+Enter a positive Integer n3: 1234 
+
+4321 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 3 
+
+Enter a positive Integer n3: 29 
+
+92 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 3 
+
+Enter a positive Integer n3: 10001 
+
+10001 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 4 
+
+Enter The size of the array: 5 
+
+Enter Elements of the array numbers:  
+
+element1: 10 
+
+element2: 20 
+
+element3: 1 
+
+element4: 2 
+
+element5: 30 
+
+2 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 4 
+
+Enter The size of the array: 5 
+
+Enter Elements of the array numbers:  
+
+element1: 1 
+
+element2: 2 
+
+element3: 0 
+
+element4: 44 
+
+element5: 29 
+
+1 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 4 
+
+Enter The size of the array: 5 
+
+Enter Elements of the array numbers:  
+
+element1: -4 
+
+element2: -3 
+
+element3: 2 
+
+element4: 1 
+
+element5: 0 
+
+4 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 5 
+
+Enter The size of the array: 6 
+
+Enter Elements of the array arr:  
+
+element1: -8 
+
+element2: 18 
+
+element3: 103 
+
+element4: 1 
+
+element5: -4 
+
+element6: 631 
+
+[6, -8, 0, 123.50, 631, 5] 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 5 
+
+Enter The size of the array: 6 
+
+Enter Elements of the array arr:  
+
+element1: -8 
+
+element2: 18 
+
+element3: 100 
+
+element4: 1 
+
+element5: -4 
+
+element6: 655 
+
+[6, -8, 0, 127.00, 655, 5] 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ ./Lab_assignment01 
+
+List of Functions: 
+
+1.numberTransformer() 
+
+2.UABNumber() 
+
+3.reverseNum(n3) 
+
+4.smallerThanIndex() 
+
+5.arrayDetails() 
+
+Enter a number from above list to try out that function: 5 
+
+Enter The size of the array: 6 
+
+Enter Elements of the array arr:  
+
+element1: -8 
+
+element2: 18 
+
+element3: 103 
+
+element4: 1 
+
+element5: 4 
+
+element6: 631 
+
+[6, -8, 0, 124.83, 631, 5] 
+
+@milonbiswas4702 ➜ /workspaces/CS532/Lab (main) $ 
