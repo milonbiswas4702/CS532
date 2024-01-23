@@ -18,6 +18,8 @@ C program that is capable of the following functionality:
 5. arrayDetails ()
    
 
+
+
 1. numberTransformer
 The numberTransformer function is a function that takes a positive integer as input and returns a string based on certain conditions. The conditions are as follows:
 
