@@ -19,7 +19,7 @@ C program that is capable of the following functionality:
    
 Function Description:
 
-1. numberTransformer
+1. numberTransformer: 
 The numberTransformer function is a function that takes a positive integer as input and returns a string based on certain conditions. 
 If the input is a prime number other than 3 or 5, the function returns: "Go Blazers".
 If the input is a power of 2, the function returns the result of adding the input and the nearest prime number below it (as a string).
